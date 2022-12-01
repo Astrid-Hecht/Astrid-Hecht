@@ -1,5 +1,11 @@
 ![The words "Astrid Hecht" floating in post-processed nebula](https://github.com/Astrid-Hecht/Astrid-Hecht/blob/main/github_header.gif)
-
+___
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api?username=Astrid-Hecht&show_icons=true&theme=synthwave&hide=stars&hide_border=true&icon_color=45efff" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" style="height:150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Astrid-Hecht&show_icons=true&theme=synthwave&hide_border=true&icon_color=45efff&layout=compact&text_color=45efff" />
+</a>
 
 
 <!--
