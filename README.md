@@ -1,4 +1,6 @@
-### Hi there 👋
+![The words "Astrid Hecht" floating in post-processed nebula](https://github.com/Astrid-Hecht/Astrid-Hecht/blob/main/github_header.gif)
+
+
 
 <!--
 **Astrid-Hecht/Astrid-Hecht** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
